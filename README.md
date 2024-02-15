@@ -11,11 +11,11 @@ Export to Excel: Exporting SQL query results to Excel for further analysis.
 Power BI Visualization: Creating dynamic dashboards with Power BI to present insights effectively.
 
 # Project Steps
-Google Sheet Data: Link to Google Sheet - Contains data for all seven questions.
+Google Sheet Data: Contains data for all seven questions.
 
-Power BI Dashboard: Link to Power BI Dashboard (PDF Format) - Visual representation of extracted insights.
+Power BI Dashboard: - Visual representation of extracted insights.
 
-Relational Database Wiring: Link Wiring Diagram - Illustrates the connections between tables.
+Relational Database Wiring:  Illustrates the connections between tables.
 
 # Steps to Replicate
 Data Extraction:Execute SQL queries provided in the code file to extract information.
